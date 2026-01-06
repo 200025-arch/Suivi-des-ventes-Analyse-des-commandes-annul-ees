@@ -5,6 +5,10 @@
 Ce projet a pour but d’analyser les ventes annuelles, les quantités vendues, les commandes annulées, ainsi que leurs répartitions par produit, région, période et catégorie.
 Il permet aux équipes commerciales de comprendre les tendances, identifier les zones critiques et suivre la performance globale.
 
+![Image](https://github.com/user-attachments/assets/c1064ebf-26b3-421f-b8d7-623d84f55812)
+
+![Image](https://github.com/user-attachments/assets/ad0d36ee-463c-43fa-b79d-2d45c2e00dc6)
+
 ----
 
 ## 📁 Ce que contient ce dépôt
